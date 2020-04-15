@@ -4,8 +4,8 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.github.lihengming</groupId>
-    <artifactId>spring-boot-api-project-seed</artifactId>
+    <groupId>com.lixiang.business</groupId>
+    <artifactId>business_system_api</artifactId>
     <version>1.0</version>
     <packaging>jar</packaging>
 
@@ -89,7 +89,7 @@
             <artifactId>druid-spring-boot-starter</artifactId>
             <version>1.1.10</version>
         </dependency>
-        <!--代码生成器依赖-->
+        <!--模板依赖-->
         <dependency>
             <groupId>org.freemarker</groupId>
             <artifactId>freemarker</artifactId>
